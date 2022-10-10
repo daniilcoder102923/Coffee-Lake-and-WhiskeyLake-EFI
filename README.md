@@ -1,1 +1,1 @@
-# Coffee-Lake-and-WhiskeyLake-EFI
+Opencore Coffee and WhiskeyLake Laptop
